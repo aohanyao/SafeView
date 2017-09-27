@@ -267,8 +267,6 @@ public class SafeView extends View {
         canvas.drawArc(mRectF, 15, 180 - 15, false, mPaint);
         mPaint.setShader(mLeftLinearGradient);
         canvas.drawArc(mRectF, 180 + 15, 180 - 15, false, mPaint);
-        //合并画布
-        canvas.restore();
     }
 
     /**

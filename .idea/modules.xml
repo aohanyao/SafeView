@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CustLoding.iml" filepath="$PROJECT_DIR$/CustLoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SafeView.iml" filepath="$PROJECT_DIR$/SafeView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
